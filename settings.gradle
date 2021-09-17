@@ -1,0 +1,4 @@
+include ':rxeasyhttp'
+include ':svprogresshud'
+include ':app'
+rootProject.name = "MyCutFileUpload"
